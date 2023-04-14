@@ -12,9 +12,11 @@ To replicate something without understanding its purpose. See https://en.wikiped
 
 Yak shave
 =========
+To digress on small or adjacent tasks while working on a larger task. See https://en.wiktionary.org/wiki/yak_shaving
 
 Yak stack
 =========
+A LIFO queue of yak shaves. Each yak shave in a yak stack is sometimes called a "yak frame."
 
 Bikeshedding
 ============
